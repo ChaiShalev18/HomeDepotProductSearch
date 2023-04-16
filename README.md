@@ -1,6 +1,6 @@
 # Home Depot Product Search Relevance
 
-This project aims to improve the search relevance of Home Depot's product search engine using machine learning techniques, specifically PyTorch. The goal is to build a model that accurately predicts the relevance of search queries to product listings, thereby enhancing the overall search experience for users.
+This project, a collaborative effort by @livneido1, @eladinbar, and @ChaiShalev18, aims to improve the search relevance of Home Depot's product search engine using machine learning techniques, specifically PyTorch. The goal is to build a model that accurately predicts the relevance of search queries to product listings, thereby enhancing the overall search experience for users.
 
 ## Competition Details
 
@@ -40,4 +40,3 @@ Contributions are welcome! Please feel free to submit bug reports, feature reque
 ## License
 
 This project is released under the [MIT License](LICENSE), which allows for free use, modification, and distribution.```
-
